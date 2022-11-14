@@ -6,8 +6,10 @@
 ├── LICENSE
 ├── README.md
 ├── TREE.md
-└── deploy.sh
+├── deploy.sh
+└── 考研英语
+    └── 24版基础词汇.pdf
 
-0 directories, 4 files
+1 directory, 5 files
 
 ```
